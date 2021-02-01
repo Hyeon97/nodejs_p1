@@ -34,6 +34,7 @@ const LoginPage = (props) => {
             }
             else {
                 alert("로그인 실패")
+
             }
         })
     }
